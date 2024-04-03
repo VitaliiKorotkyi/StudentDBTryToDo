@@ -1,0 +1,14 @@
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Debug\BD\Student.mdf
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Debug\BD\Student_log.ldf
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Debug\StudentBD.exe.config
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Debug\StudentBD.exe
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Debug\StudentBD.pdb
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.Properties.Resources.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.exe
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.pdb
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.StudentManager.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.AddStudent.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Debug\StudentBD.StudentDelite.resources

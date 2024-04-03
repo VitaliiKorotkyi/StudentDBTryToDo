@@ -1,0 +1,114 @@
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\BD\Student.mdf
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\BD\Student_log.ldf
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\StudentBD.exe.config
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\StudentBD.exe
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\StudentBD.pdb
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.AddStudent.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.StudentManager.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.Properties.Resources.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.StudentDelite.resources
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.exe
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.pdb
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\mongocrypt.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\AWSSDK.Core.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\AWSSDK.SecurityToken.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\DnsClient.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Bson.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Driver.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\SharpCompress.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Snappier.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Buffers.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Memory.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Numerics.Vectors.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Security.AccessControl.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\ZstdSharp.dll
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\AWSSDK.Core.pdb
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\AWSSDK.Core.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\AWSSDK.SecurityToken.pdb
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\AWSSDK.SecurityToken.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\DnsClient.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Bson.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Driver.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\Snappier.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Buffers.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Memory.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Numerics.Vectors.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Security.AccessControl.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\vital\source\repos\StudentBD\StudentBD\obj\Release\StudentBD.csproj.Up2Date
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\BD\Student.mdf
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\BD\Student_log.ldf
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\mongocrypt.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\StudentBD.exe.config
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\StudentBD.exe
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\StudentBD.pdb
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\AWSSDK.Core.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\AWSSDK.SecurityToken.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\DnsClient.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Bson.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Driver.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\SharpCompress.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Snappier.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Buffers.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Memory.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Numerics.Vectors.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Security.AccessControl.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\ZstdSharp.dll
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\AWSSDK.Core.pdb
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\AWSSDK.Core.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\AWSSDK.SecurityToken.pdb
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\AWSSDK.SecurityToken.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\DnsClient.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Bson.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Driver.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\Snappier.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Buffers.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Memory.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Numerics.Vectors.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Security.AccessControl.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.AddStudent.resources
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.StudentManager.resources
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.Properties.Resources.resources
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.StudentDelite.resources
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.csproj.Up2Date
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.exe
+C:\Users\vital\OneDrive\Desktop\готовие проекти и шаблони\StudentBD\StudentBD\obj\Release\StudentBD.pdb
